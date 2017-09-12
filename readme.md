@@ -15,7 +15,7 @@ conda install numpy scipy scikit-learn jupyter matplotlib
 
 3) Clone this repository and start Jupyter
 ```
-git clone https://github.com/omojumiller/tutorial-bagging-models.git
+git clone https://github.com/omoju/tutorial-bagging-models.git
 cd tutorial-bagging-models
 jupyter notebook
 ```
